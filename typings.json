@@ -1,0 +1,8 @@
+{
+  "globalDevDependencies": {
+    "jasmine": "registry:dt/jasmine#2.5.0+20161003201800"
+  },
+  "globalDependencies": {
+    "lodash": "registry:dt/lodash#4.14.0+20161004174455"
+  }
+}
