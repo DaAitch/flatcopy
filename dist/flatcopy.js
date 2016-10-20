@@ -1,5 +1,4 @@
 "use strict";
-///<reference path="../typings/globals/lodash/index.d.ts"/>
 var _ = require('lodash');
 function flatcopy(x) {
     if (!_.isObject(x) || _.isArray(x))

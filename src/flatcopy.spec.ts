@@ -1,4 +1,3 @@
-///<reference path="../typings/globals/jasmine/index.d.ts"/>
 import {flatcopy, flatarraycopy} from './flatcopy'
 
 describe('flatcopy', () => {

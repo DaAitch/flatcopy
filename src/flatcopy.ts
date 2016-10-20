@@ -1,4 +1,3 @@
-///<reference path="../typings/globals/lodash/index.d.ts"/>
 import * as _ from 'lodash';
 
 export function flatcopy<T>(x: T): T {

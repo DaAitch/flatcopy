@@ -8,7 +8,12 @@
     "removeComments": false,
     "sourceMap": true,
     "target": "es5",
-    "outDir": "dist"
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "types": [
+      "jasmine",
+      "lodash"
+    ]
   },
   "include": [
     "src/**/*"
